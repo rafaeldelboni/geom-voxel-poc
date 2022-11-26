@@ -20,6 +20,7 @@
 .vscode
 *.class
 *.jar
+*.log
 *.swp
 *~
 /checkouts
